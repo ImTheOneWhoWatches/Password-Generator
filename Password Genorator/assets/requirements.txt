@@ -1,0 +1,7 @@
+random
+colorama
+time
+pyperclip
+tkinter
+string
+os
